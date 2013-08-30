@@ -43,10 +43,17 @@ La aplicación tendrá un diccionario de imágenes en las cuales se muestra el a
 La otra opción será el traductor el cual trabajara de forma que tal que se introduce el texto en la aplicación y esta lo traduce a mostrar las imágenes de las señas representando lo que dice el texto.
 
 Herramientas Tecnológicas
+
 Github
+
 Android Studio
+
 Adobe Photoshop
+
 Adobe Illustrator
+
 MYSQL
+
 Microsoft Proyect 2013
+
 Sony Vegas 
