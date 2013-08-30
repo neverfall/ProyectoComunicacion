@@ -36,6 +36,7 @@ Esto con el fin de ayudar a las personas con menos oportunidades de comunicació
 
 
 Descripción de Proyecto
+
 El proyecto consiste en el diseño de una aplicación para el Sistema Operativo Android en la cual de manera interactiva se logre presentar al público la base de como aprender a comunicarse con el idioma de señas Lesco. La cual se creara en Android Studio y se llevara un bitácora detalla de todo el proceso de creación de la aplicación en Microsoft Proyect 2013.
 La idea es que la aplicación sea de fácil manejo para todas las personas que quieran hacer uso de esta.
 La aplicación tendrá un diccionario de imágenes en las cuales se muestra el abecedario en este lenguaje con imágenes de las señas que representan las letras.
