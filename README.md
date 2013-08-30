@@ -5,8 +5,11 @@ Proyecto Comunicación Técnica
 
 Integrantes:
 	Carlos Chacón
+	
 	Olman Quirós
+	
 	Gerardo Mora
+	
 	Sebastián Solano
 
 
